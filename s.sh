@@ -20,7 +20,7 @@ apt-get install python3
 pip3 install netaddr
 clear
 #Loading
-echo "////////////////////////////" | lolcat -a -d 190
+echo "///////////////////////////////////////////////////////" | lolcat -a -d 190
 sleep 1
 #Tampialn
 clear
