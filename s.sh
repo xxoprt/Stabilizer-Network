@@ -34,7 +34,7 @@ echo "(+)Teman  : MR.AM, PANGLIAMA JATENG(+)"
 echo "======================================"
 echo "======================================"
 echo "(1). Stabilizer Network            (★)"
-echo "(2). Admin Whatsapp  	            (★)"
+echo "(2). Admin Whatsapp  	           (★)"
 echo "(3). Subscribe to my channel       (★)"
 echo "====================================="
 read -p "[=]>" Input
